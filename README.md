@@ -30,9 +30,25 @@ Country-Level Results:
 
 Based on the joined tables created from SQL, we continued using R to do a further deep clean of the data file by removing all ”No data” rows and vague or inappropriate numbers. Then we created the KPIs about HIV cases rate by country population and HIV deaths rate by total cases, as seen in the R script and white table below. 
  
-In addition, we are also deep dived into the country level by calculating the average values of each country in terms of HIV cases rate, death rate, women rate, unemployment rate, and GDP throughout the period from 2007 to 2016 as the following table. (*Note that there is a missing of some countries that do not have valid data). 
+In addition, we are also deep dived into the country level by calculating the average values of each country in terms of HIV cases rate, death rate, women rate, unemployment rate, and GDP throughout the period from 2007 to 2016 as the following table. (*Note that there is a missing of some countries that do not have valid data).
+
 ![image](https://github.com/janie140/NU-ITC6000-HIV-dataset/assets/121474131/206ea92e-8caf-4975-a678-354809d7a5c2)
 
+Finally, we created all country-level graphs according to our mean data table. The 1st and 2nd graphs show the average percentage of people living with HIV by country population and the average percentage of number of deaths due to HIV by the total cases. Djibouti has the highest rate of HIV infection cases with beyond 1%, which is significantly higher than other countries that keep the rate much below 0.25%. While Qatar remains the almost lowest rate of people living with HIV, this country has the highest death rate per cases due to HIV-related causes, approximately 50%. Almost all other countries only have the mortality rate below 20%. 
+
+<img width="391" alt="image" src="https://github.com/janie140/NU-ITC6000-HIV-dataset/assets/121474131/348213bf-cadd-4d6d-8258-04acd86e148a">
+
+<img width="389" alt="image" src="https://github.com/janie140/NU-ITC6000-HIV-dataset/assets/121474131/6edac7a8-48da-4bd9-af0a-5d84b0557459">
+
+Take a closer look at the Figure 3 illustrating about the average percentage of women living with HIV by the total HIV cases, we witness Morocco and Somalia reach the highest points of almost 50%, while Pakistan has the lowest rate of below 10%. So, more than half of the Eastern Mediterranean countries has the HIV women percentage above 25%. 
+
+<img width="385" alt="image" src="https://github.com/janie140/NU-ITC6000-HIV-dataset/assets/121474131/aa88e854-007e-4661-bc40-fb8c8ae2f529">
+
+The two following figures demonstrate the relationship between the country's unemployment rate and HIV cases percentage, also between the country's GDP and HIV cases percentage. They both show weak or unclear relations. Even though we can see a little positive correlation between unemployment rate and HIV infection rate, it cannot be proved right here. Also, it is not convincing enough to dig into the relationship result between the GDP and HIV case rate in Eastern Mediterranean region.
+
+<img width="368" alt="image" src="https://github.com/janie140/NU-ITC6000-HIV-dataset/assets/121474131/1ab6de28-1fd1-4f65-ad42-a5bf76936b5d">
+
+<img width="368" alt="image" src="https://github.com/janie140/NU-ITC6000-HIV-dataset/assets/121474131/5d09e1a1-e28f-4968-ab39-b1d0a285c915">
 
 Conclusions and Recommendations 
 
