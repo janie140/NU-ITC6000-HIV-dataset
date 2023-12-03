@@ -1,0 +1,200 @@
+Country_population,Year,population,GDP,unemployment_rate,REGION
+Afghanistan,2016,34636.207,509.2711722,0.10086,Eastern Mediterranean
+Afghanistan,2015,33753.499,543.7689396,0.08989,Eastern Mediterranean
+Afghanistan,2014,32716.21,585.8626728,0.0791,Eastern Mediterranean
+Afghanistan,2013,31541.209,608.0586417,0.07949,Eastern Mediterranean
+Afghanistan,2012,30466.479,614.109574,0.08019,Eastern Mediterranean
+Afghanistan,2011,29249.157,576.1017703,0.07947,Eastern Mediterranean
+Afghanistan,2010,28189.672,503.6366056,0.08068,Eastern Mediterranean
+Afghanistan,2009,27385.307,408.3539296,0.08082,Eastern Mediterranean
+Afghanistan,2008,26427.199,369.266275,0.08022,Eastern Mediterranean
+Afghanistan,2007,25903.301,347.305373,0.08108,Eastern Mediterranean
+Bahrain,2016,1409.661,22608.46892,0.01181,Eastern Mediterranean
+Bahrain,2015,1362.142,22634.11865,0.01197,Eastern Mediterranean
+Bahrain,2014,1311.134,24989.38021,0.01184,Eastern Mediterranean
+Bahrain,2013,1261.673,24744.38377,0.01178,Eastern Mediterranean
+Bahrain,2012,1224.939,23654.35168,0.012,Eastern Mediterranean
+Bahrain,2011,1212.077,22514.24868,0.01185,Eastern Mediterranean
+Bahrain,2010,1213.645,20722.13729,0.0113,Eastern Mediterranean
+Bahrain,2009,1179.453,19355.90657,0.01144,Eastern Mediterranean
+Bahrain,2008,1110.343,23066.50698,0.0111,Eastern Mediterranean
+Bahrain,2007,1040.532,20976.55554,0.01091,Eastern Mediterranean
+Djibouti,2016,1023.261,2818.376856,0.26197,Eastern Mediterranean
+Djibouti,2015,1006.259,2675.605375,0.26337,Eastern Mediterranean
+Djibouti,2014,989.087,2466.020613,0.2651,Eastern Mediterranean
+Djibouti,2013,971.753,2312.728803,0.26714,Eastern Mediterranean
+Djibouti,2012,954.297,1964.194474,0.26873,Eastern Mediterranean
+Djibouti,2011,936.811,1702.985513,0.26971,Eastern Mediterranean
+Djibouti,2010,919.199,1480.188842,0.27194,Eastern Mediterranean
+Djibouti,2009,901.103,1321.430567,0.27402,Eastern Mediterranean
+Djibouti,2008,882.886,1195.804139,0.27455,Eastern Mediterranean
+Djibouti,2007,865.196,1052.725652,0.27619,Eastern Mediterranean
+Egypt,2016,99784.03,2861.428376,0.1245,Eastern Mediterranean
+Egypt,2015,97723.799,3437.21123,0.13052,Eastern Mediterranean
+Egypt,2014,95592.324,3328.175342,0.13105,Eastern Mediterranean
+Egypt,2013,93377.89,3062.989012,0.13154,Eastern Mediterranean
+Egypt,2012,91240.376,3199.827727,0.12597,Eastern Mediterranean
+Egypt,2011,89200.054,2733.968454,0.11849,Eastern Mediterranean
+Egypt,2010,87252.413,2593.368405,0.08756,Eastern Mediterranean
+Egypt,2009,85501.064,2316.59466,0.09087,Eastern Mediterranean
+Egypt,2008,83844.783,2069.966233,0.08517,Eastern Mediterranean
+Egypt,2007,82218.755,1689.39991,0.088,Eastern Mediterranean
+Iraq,2016,38697.943,4550.658638,0.1082,Eastern Mediterranean
+Iraq,2015,37757.813,4688.318938,0.10729,Eastern Mediterranean
+Iraq,2014,36746.488,6637.683989,0.1059,Eastern Mediterranean
+Iraq,2013,35481.8,7076.554613,0.09263,Eastern Mediterranean
+Iraq,2012,33864.447,6836.027509,0.0796,Eastern Mediterranean
+Iraq,2011,32378.061,6045.495551,0.08125,Eastern Mediterranean
+Iraq,2010,31264.875,4657.280426,0.08252,Eastern Mediterranean
+Iraq,2009,30289.04,4439.826754,0.08395,Eastern Mediterranean
+Iraq,2008,29218.381,4355.653466,0.0848,Eastern Mediterranean
+Iraq,2007,28660.887,3182.947935,0.0865,Eastern Mediterranean
+Jordan,2016,9964.656,4175.356604,0.1528,Eastern Mediterranean
+Jordan,2015,9494.246,4164.107876,0.1308,Eastern Mediterranean
+Jordan,2014,8658.026,4131.444579,0.119,Eastern Mediterranean
+Jordan,2013,7694.814,4044.431146,0.126,Eastern Mediterranean
+Jordan,2012,7211.863,3910.347375,0.122,Eastern Mediterranean
+Jordan,2011,7109.98,3852.89606,0.129,Eastern Mediterranean
+Jordan,2010,6931.258,3736.646494,0.125,Eastern Mediterranean
+Jordan,2009,6780.493,3559.691079,0.129,Eastern Mediterranean
+Jordan,2008,6632.873,3455.930205,0.127,Eastern Mediterranean
+Jordan,2007,6473.457,2820.765658,0.131,Eastern Mediterranean
+Kuwait,2016,4048.085,27649.72362,0.0216,Eastern Mediterranean
+Kuwait,2015,3908.743,29874.03252,0.022,Eastern Mediterranean
+Kuwait,2014,3761.584,44069.03988,0.029,Eastern Mediterranean
+Kuwait,2013,3646.518,49389.97618,0.02622,Eastern Mediterranean
+Kuwait,2012,3394.663,51972.1826,0.02318,Eastern Mediterranean
+Kuwait,2011,3143.825,48623.04912,0.02033,Eastern Mediterranean
+Kuwait,2010,2943.356,38576.3778,0.0182,Eastern Mediterranean
+Kuwait,2009,2795.55,37563.32973,0.0164,Eastern Mediterranean
+Kuwait,2008,2650.93,55489.37529,0.0175,Eastern Mediterranean
+Kuwait,2007,2506.769,45780.59015,0.015,Eastern Mediterranean
+Lebanon,2016,6258.619,7653.73363,0.09723,Eastern Mediterranean
+Lebanon,2015,6398.94,7663.923752,0.09263,Eastern Mediterranean
+Lebanon,2014,6274.342,7687.761792,0.08765,Eastern Mediterranean
+Lebanon,2013,5678.851,7933.22527,0.0828,Eastern Mediterranean
+Lebanon,2012,5178.337,7952.162754,0.0783,Eastern Mediterranean
+Lebanon,2011,5045.056,7675.303038,0.07383,Eastern Mediterranean
+Lebanon,2010,4995.8,7761.646191,0.06836,Eastern Mediterranean
+Lebanon,2009,4951.135,7354.953605,0.0635,Eastern Mediterranean
+Lebanon,2008,4887.613,6111.332411,0.07672,Eastern Mediterranean
+Lebanon,2007,4809.608,5207.796,0.0898,Eastern Mediterranean
+Libya,2016,6282.196,7671.865468,0.19516,Eastern Mediterranean
+Libya,2015,6192.235,7559.933245,0.19521,Eastern Mediterranean
+Libya,2014,6097.764,8982.122587,0.19611,Eastern Mediterranean
+Libya,2013,5985.221,11898.53721,0.1946,Eastern Mediterranean
+Libya,2012,5869.87,14718.0878,0.1903,Eastern Mediterranean
+Libya,2011,6188.132,7720.978791,0.19446,Eastern Mediterranean
+Libya,2010,6491.988,12168.75418,0.19308,Eastern Mediterranean
+Libya,2009,6360.191,9912.116371,0.19411,Eastern Mediterranean
+Libya,2008,6228.37,14311.6563,0.19428,Eastern Mediterranean
+Libya,2007,6097.177,11386.68412,0.19443,Eastern Mediterranean
+Morocco,2016,35107.264,2941.156676,0.093,Eastern Mediterranean
+Morocco,2015,34680.458,2918.891836,0.0946,Eastern Mediterranean
+Morocco,2014,34248.603,3219.455393,0.097,Eastern Mediterranean
+Morocco,2013,33803.527,3168.42274,0.0923,Eastern Mediterranean
+Morocco,2012,33352.169,2956.0836,0.0899,Eastern Mediterranean
+Morocco,2011,32903.699,3092.283635,0.0891,Eastern Mediterranean
+Morocco,2010,32464.865,2882.110528,0.0909,Eastern Mediterranean
+Morocco,2009,32042.877,2909.48878,0.0896,Eastern Mediterranean
+Morocco,2008,31634.992,2933.301005,0.0957,Eastern Mediterranean
+Morocco,2007,31232.633,2536.317631,0.0956,Eastern Mediterranean
+Oman,2016,4398.07,14618.73313,0.0327,Eastern Mediterranean
+Oman,2015,4191.776,16028.61152,0.03384,Eastern Mediterranean
+Oman,2014,4009.267,20035.17398,0.0355,Eastern Mediterranean
+Oman,2013,3816.68,20865.78628,0.03602,Eastern Mediterranean
+Oman,2012,3535.579,21872.62025,0.03658,Eastern Mediterranean
+Oman,2011,3206.87,20876.78803,0.03865,Eastern Mediterranean
+Oman,2010,2881.914,18712.5763,0.04007,Eastern Mediterranean
+Oman,2009,2697.537,16823.79495,0.04058,Eastern Mediterranean
+Oman,2008,2651.028,22139.68434,0.0414,Eastern Mediterranean
+Oman,2007,2605.7,15838.49342,0.04189,Eastern Mediterranean
+Pakistan,2016,213524.84,1362.860008,0.03756,Eastern Mediterranean
+Pakistan,2015,210969.298,1339.012975,0.0357,Eastern Mediterranean
+Pakistan,2014,208251.628,1274.669722,0.0183,Eastern Mediterranean
+Pakistan,2013,205337.562,1151.666255,0.0295,Eastern Mediterranean
+Pakistan,2012,202205.861,1146.099479,0.01864,Eastern Mediterranean
+Pakistan,2011,198602.738,1154.529152,0.008,Eastern Mediterranean
+Pakistan,2010,194454.498,972.5973129,0.0065,Eastern Mediterranean
+Pakistan,2009,190123.222,920.3080544,0.0054,Eastern Mediterranean
+Pakistan,2008,185931.955,880.2118723,0.0042,Eastern Mediterranean
+Pakistan,2007,181924.521,906.5354757,0.004,Eastern Mediterranean
+Qatar,2016,2595.166,57163.07568,0.0015,Eastern Mediterranean
+Qatar,2015,2414.573,63039.06349,0.0017,Eastern Mediterranean
+Qatar,2014,2214.465,83858.47685,0.002,Eastern Mediterranean
+Qatar,2013,2035.501,85050.86635,0.0028,Eastern Mediterranean
+Qatar,2012,1905.66,85076.18024,0.0048,Eastern Mediterranean
+Qatar,2011,1804.171,82409.57733,0.0056,Eastern Mediterranean
+Qatar,2010,1713.504,67403.19425,0.0045,Eastern Mediterranean
+Qatar,2009,1610.274,59094.52366,0.0031,Eastern Mediterranean
+Qatar,2008,1444.277,80234.43685,0.0031,Eastern Mediterranean
+Qatar,2007,1231.893,65421.65681,0.0052,Eastern Mediterranean
+Saudi Arabia,2016,33416.27,19878.76572,0.056,Eastern Mediterranean
+Saudi Arabia,2015,32749.848,20627.92763,0.056,Eastern Mediterranean
+Saudi Arabia,2014,32125.564,24464.2173,0.0572,Eastern Mediterranean
+Saudi Arabia,2013,31482.498,24845.12384,0.056,Eastern Mediterranean
+Saudi Arabia,2012,30821.543,25243.60719,0.0552,Eastern Mediterranean
+Saudi Arabia,2011,30150.945,23745.88226,0.0577,Eastern Mediterranean
+Saudi Arabia,2010,29411.929,19262.55252,0.0555,Eastern Mediterranean
+Saudi Arabia,2009,28483.797,16113.14374,0.0538,Eastern Mediterranean
+Saudi Arabia,2008,27437.353,20078.25538,0.0508,Eastern Mediterranean
+Saudi Arabia,2007,26400.068,16516.62653,0.0573,Eastern Mediterranean
+Somalia,2016,14292.847,106.3427192,0.18931,Eastern Mediterranean
+Somalia,2015,13763.906,105.4401713,0.18877,Eastern Mediterranean
+Somalia,2014,13309.235,122.9990275,0.1901,Eastern Mediterranean
+Somalia,2013,12852.485,134.9249654,0.19066,Eastern Mediterranean
+Somalia,2012,12440.326,119.5030695,0.19161,Eastern Mediterranean
+Somalia,2011,12216.837,91.80093501,0.19173,Eastern Mediterranean
+Somalia,2010,12026.649,90.73356305,0.19174,Eastern Mediterranean
+Somalia,2009,11730.037,106.3906499,0.19174,Eastern Mediterranean
+Somalia,2008,11444.87,228.1288829,0.19175,Eastern Mediterranean
+Somalia,2007,11118.092,224.0944117,0.19174,Eastern Mediterranean
+Sudan,2016,39377.169,2250.36653,0.17441,Eastern Mediterranean
+Sudan,2015,38171.178,2157.509364,0.17444,Eastern Mediterranean
+Sudan,2014,37003.245,2056.237938,0.17385,Eastern Mediterranean
+Sudan,2013,35990.704,1724.553464,0.17405,Eastern Mediterranean
+Sudan,2012,35159.792,1720.923522,0.17668,Eastern Mediterranean
+Sudan,2011,34419.624,1932.349618,0.1744,Eastern Mediterranean
+Sudan,2010,33739.933,1584.58625,0.1513,Eastern Mediterranean
+Sudan,2009,32948.155,1449.554432,0.13,Eastern Mediterranean
+Sudan,2008,32065.241,1497.505473,0.148,Eastern Mediterranean
+Syrian Arab Republic,2016,18964.252,760.9213372,0.08765,Eastern Mediterranean
+Syrian Arab Republic,2015,19205.178,1109.412836,0.08721,Eastern Mediterranean
+Syrian Arab Republic,2014,20072.232,1252.483681,0.08744,Eastern Mediterranean
+Syrian Arab Republic,2013,21495.821,1379.89373,0.08863,Eastern Mediterranean
+Syrian Arab Republic,2012,22605.577,2291.618515,0.08856,Eastern Mediterranean
+Syrian Arab Republic,2011,22730.733,3191.994378,0.08626,Eastern Mediterranean
+Syrian Arab Republic,2010,22337.563,2830.428555,0.0861,Eastern Mediterranean
+Syrian Arab Republic,2009,21827.22,2551.733439,0.0814,Eastern Mediterranean
+Syrian Arab Republic,2008,21474.059,2543.448342,0.1094,Eastern Mediterranean
+Syrian Arab Republic,2007,20703.005,2025.921471,0.0842,Eastern Mediterranean
+Tunisia,2016,11685.667,3697.880363,0.1556,Eastern Mediterranean
+Tunisia,2015,11557.779,3861.643875,0.1516,Eastern Mediterranean
+Tunisia,2014,11428.948,4305.543424,0.1426,Eastern Mediterranean
+Tunisia,2013,11300.284,4222.812667,0.1593,Eastern Mediterranean
+Tunisia,2012,11174.383,4152.703104,0.1763,Eastern Mediterranean
+Tunisia,2011,11032.528,4264.725435,0.1833,Eastern Mediterranean
+Tunisia,2010,10895.063,4141.976353,0.1305,Eastern Mediterranean
+Tunisia,2009,10784.504,4128.53922,0.1329,Eastern Mediterranean
+Tunisia,2008,10680.38,4307.431047,0.1244,Eastern Mediterranean
+Tunisia,2007,10580.395,3776.455943,0.1236,Eastern Mediterranean
+United Arab Emirates,2016,8994.263,38141.85652,0.0164,Eastern Mediterranean
+United Arab Emirates,2015,8916.899,38663.37156,0.01763,Eastern Mediterranean
+United Arab Emirates,2014,8835.951,43751.85055,0.01902,Eastern Mediterranean
+United Arab Emirates,2013,8751.847,42412.62727,0.02032,Eastern Mediterranean
+United Arab Emirates,2012,8664.969,40976.50538,0.02171,Eastern Mediterranean
+United Arab Emirates,2011,8575.205,39194.67965,0.02284,Eastern Mediterranean
+United Arab Emirates,2010,8481.771,33893.31689,0.02464,Eastern Mediterranean
+United Arab Emirates,2009,7992.644,32442.67885,0.02668,Eastern Mediterranean
+United Arab Emirates,2008,6988.685,45080.46215,0.02721,Eastern Mediterranean
+United Arab Emirates,2007,5872.624,42355.89416,0.0286,Eastern Mediterranean
+Yemen,2016,29274.002,811.1440991,0.13407,Eastern Mediterranean
+Yemen,2015,28516.545,1006.129065,0.13783,Eastern Mediterranean
+Yemen,2014,27753.304,1286.585934,0.1347,Eastern Mediterranean
+Yemen,2013,26984.002,1382.078841,0.13264,Eastern Mediterranean
+Yemen,2012,26223.391,1310.608852,0.13165,Eastern Mediterranean
+Yemen,2011,25475.61,1305.4182,0.13249,Eastern Mediterranean
+Yemen,2010,24743.946,1334.784943,0.12826,Eastern Mediterranean
+Yemen,2009,24029.589,1263.942155,0.1275,Eastern Mediterranean
+Yemen,2008,23329.004,1388.498036,0.12623,Eastern Mediterranean
+Yemen,2007,22641.538,1204.447631,0.12498,Eastern Mediterranean
